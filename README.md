@@ -1,13 +1,9 @@
-# 🌍 LangTrans 
+# 🌍 LinguaChain	 
 
 
 LangChain LCEL Translation Chain using Groq
 
-This project demonstrates the use of LangChain Expression Language (LCEL) to build a translation pipeline. It takes a text input and a target language, then uses Groq's language model to generate an accurate and context-aware translation.
-
-This project provides a **FastAPI-based translation server** powered by **LangChain**, **LangServe**, and **Groq's Gemma model**. It also includes a **Jupyter Notebook (LCEL.ipynb)** that demonstrates the same functionality interactively.
-
----
+This project demonstrates the use of LangChain Expression Language (LCEL) to build a translation pipeline. It takes a text input and a target language, then uses Groq's language model to generate an accurate and context-aware translation and also  provides a FastAPI-based translation server.
 
 ## 📚 Contents
 
